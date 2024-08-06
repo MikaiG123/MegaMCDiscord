@@ -1,3 +1,3 @@
 # MegaMCDiscord
 
-Don´t Compy anything here
+Don´t Copy anything here
